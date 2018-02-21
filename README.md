@@ -1,2 +1,1 @@
-# mpv-configs
-Config files for the mpv media player
+# Config files for [mpv](https://mpv.io/)
